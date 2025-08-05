@@ -87,8 +87,8 @@
 
 #Задание 2#
 
-![Скриншот Configuration > Hosts:](Скриншот1.png)
+![Скриншот Configuration > Hosts:](Скриншот2.png)
 
-![Скриншот Monitoring > Latest data для обоих хостов:](Скриншот1.png)
+![Скриншот Monitoring > Latest data для обоих хостов:](Скриншот3.png)
 
-![Скриншот лога zabbix agent:](Скриншот1.png)
+![Скриншот лога zabbix agent:](Скриншот4.png)
